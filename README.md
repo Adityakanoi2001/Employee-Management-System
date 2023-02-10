@@ -8,3 +8,7 @@ The Current Api's Include :
   
 Unit Testing written in TEST Files as REPO Testing and SERVICE Method Testing
 
+- [x] #Created the Data Model and Controller End Points
+- [x] #Created All the required API's
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
