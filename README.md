@@ -24,5 +24,5 @@ Unit Testing written in TEST Files as REPO Testing and SERVICE Method Testing
 
 Your Name - [@adityakanoi123](https://twitter.com/adityakanoi123) - adityakanoi123@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Adityakanoi2001/employee-management-system)
+Project Link: [https://github.com/Adityakanoi2001/employee-management-system](https://github.com/Adityakanoi2001/employee-management-system)
 
