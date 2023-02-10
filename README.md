@@ -1,5 +1,11 @@
 # Employee-Management-System 🗿
 
+<img src="icon.png" align="right" />
+
+# Employee - Management [![EMS](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
+
+
 It is a Employee Management System with Employee and Manager API's we can used these Api's End Points for creating Employee Systems.
 The Current Api's Include : 
   * 1 - All the CRUD Operations (Manager and Employee)
@@ -21,4 +27,3 @@ Your Name - [@adityakanoi123](https://twitter.com/adityakanoi123) - adityakanoi1
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Adityakanoi2001/employee-management-system)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
