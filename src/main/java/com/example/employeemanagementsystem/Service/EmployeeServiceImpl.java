@@ -6,6 +6,7 @@ import com.example.employeemanagementsystem.Dtos.EmployeeUpdateDto;
 import com.example.employeemanagementsystem.Entities.EmployeeEntity;
 import com.example.employeemanagementsystem.Entities.ManagerEntity;
 import com.example.employeemanagementsystem.Repo.EmployeeRepository;
+import lombok.AllArgsConstructor;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
@@ -20,6 +21,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
+@AllArgsConstructor
 @Service
 public class EmployeeServiceImpl implements EmployeeService
 {

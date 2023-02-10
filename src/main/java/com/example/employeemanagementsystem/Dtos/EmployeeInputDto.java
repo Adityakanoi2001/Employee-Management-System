@@ -4,8 +4,11 @@ package com.example.employeemanagementsystem.Dtos;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class EmployeeInputDto
 {
     private String firstName;

@@ -3,6 +3,7 @@ package com.example.employeemanagementsystem.Service;
 import com.example.employeemanagementsystem.Dtos.ManagerInputDto;
 import com.example.employeemanagementsystem.Entities.ManagerEntity;
 import com.example.employeemanagementsystem.Repo.ManagerRepo;
+import lombok.AllArgsConstructor;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
@@ -11,11 +12,13 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Service;
 
 
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
+@AllArgsConstructor
 @Service
 public class ManagerServiceImpl implements ManagerService {
 
@@ -92,10 +95,7 @@ public class ManagerServiceImpl implements ManagerService {
                 }
             }
         }
-
         return managerEntityList;
-
-
     }
 
 
