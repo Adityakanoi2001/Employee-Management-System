@@ -1,9 +1,9 @@
-# Employee-Management-System 🗿
+
 
 <img src="icon.png" align="right" />
 
-# Employee - Management [![EMS](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
+# Employee-Management-System 🗿[![EMS](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A Basic Employee Management System for Employeesssssss........
 
 
 It is a Employee Management System with Employee and Manager API's we can used these Api's End Points for creating Employee Systems.
