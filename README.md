@@ -16,7 +16,7 @@ Unit Testing written in TEST Files as REPO Testing and SERVICE Method Testing
 - [x] #Created the Data Model and Controller End Points
 - [x] #Created All the required API's
 - [ ] Create All the Unit Tests
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] All tasks are complete :tada:
 
 
 <!-- CONTACT -->
